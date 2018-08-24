@@ -1,2 +1,2 @@
 # binaryFastq
-A module for compressing FASTQ files into a binary format. The algorithm allows you to compress files more than 10 times.
+Module for reading and writing FastQ files. It is able also to compress FASTQ files into a binary format.
